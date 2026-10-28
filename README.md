@@ -150,8 +150,8 @@ print(f"\nPredicted Profit for the new startup: ₹{pred_original[0][0]:,.2f}")
 <img width="757" height="257" alt="image" src="https://github.com/user-attachments/assets/92b65bd3-35e1-4407-82db-9194183e2127" />
 <img width="450" height="67" alt="image" src="https://github.com/user-attachments/assets/033b9020-33c2-4365-b433-ee01b1217e11" />
 <img width="741" height="335" alt="image" src="https://github.com/user-attachments/assets/5f6840be-407c-4fc5-80c0-2c0df812111a" />
+<img width="635" height="373" alt="image" src="https://github.com/user-attachments/assets/04192465-6940-4e26-857a-483c76ca2bf5" />
 
-<img width="1258" height="137" alt="image" src="https://github.com/user-attachments/assets/48c72ce6-34a6-4583-94a1-9c8a629fe0b5" />
 
 
 ## Result:
